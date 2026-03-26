@@ -1,0 +1,19 @@
+# How to Setup New Workspace:
+
+# 1. Create workspace
+> mkdir [WORKSPACE_PATH]/Workspace
+> cd [WORKSPACE_PATH]/Workspace
+
+# 2. Create .qwen folder
+> mkdir .qwen
+
+# 3. Copy template
+copy [WORKSPACE_PATH]/.qwen/settings-template.json .qwen/settings.json
+
+# 4. Edit .qwen/settings.json:
+- Set TELEGRAM_BOT_TOKEN (from BotFather)
+- Set WORKSPACE_PATH
+- Set BOT_NAME
+
+# 5. Run Qwen Code
+> npx qwen
