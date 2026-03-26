@@ -1,7 +1,6 @@
 # Qwen Code Telegram MCP Server
 
 **Version:** v2.2.0  
-**Status:** ✅ Production Ready
 
 MCP Server for Telegram Bot integration with Qwen Code. Chat with Qwen Code directly from Telegram with persistent sessions, group chat support, and advanced features.
 
